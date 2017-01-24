@@ -1,0 +1,17 @@
+1ABC &A,&B
+2L 8,&A
+3M 2,&A
+4ARYA &B
+5fgf 3,&A
+MEND
+6XYZ &X,&Y,&Z
+7JB 1,&X
+8GH 1,&Y
+9gh 3,&X
+10K &Z
+MEND
+11KLM &K,&L,&M
+12LK 5,&K
+13HJK 6,&M
+14HJKKJF 7,&L
+MEND
